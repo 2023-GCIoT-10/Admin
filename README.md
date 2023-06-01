@@ -8,15 +8,14 @@ AI 공학관 Blueprint
 
 
 
-### Admin measurement app testing
+Admin app testing
 
-Use the spinner to select the number of floors and  and press the START button to find the RSSI(Received Signal Strength Indication Value) value of nearby Wi-Fi and inform the WAP(Wireless Access Point) and distance.
 
 <img src="https://github.com/2023-GCIoT-10/Admin/assets/76063864/a11631a0-fe84-469d-b582-f33b18e74c7f" />
 
 
 
-### Data exploration
+Data exploration
 
 <img src="https://github.com/2023-GCIoT-10/Admin/assets/76063864/cb32b172-5162-4c0d-bd55-e504ef599590" width = "600" height = "600"/>
 
