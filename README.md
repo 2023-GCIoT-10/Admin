@@ -14,7 +14,7 @@ Admin app testing
 
 
 
-Result in fireBase
+Result in firebase
 
 <img src="https://github.com/2023-GCIoT-10/Admin/assets/76063864/cb32b172-5162-4c0d-bd55-e504ef599590" width = "600" height = "600"/>
 
