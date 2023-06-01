@@ -1,7 +1,6 @@
 
 
-AI 공학관 Blueprint
-<img width="711" alt="스크린샷 2022-05-09 오후 9 53 12" src="https://user-images.githubusercontent.com/50310635/167414331-df3c09ef-82ee-41f5-ab18-9369ea44a8aa.png">
+
 
 
 
