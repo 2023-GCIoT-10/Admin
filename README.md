@@ -12,7 +12,7 @@ AI 공학관 Blueprint
 
 Use the spinner to select the number of floors and  and press the START button to find the RSSI(Received Signal Strength Indication Value) value of nearby Wi-Fi and inform the WAP(Wireless Access Point) and distance.
 
-<img src="[https://user-images.githubusercontent.com/104605749/173557409-3d7c79a0-73ac-4fc6-bbbd-23bcb9dfa884.jpg]" width = "200" height = "400"/>
+<img src="https://github.com/2023-GCIoT-10/Admin/assets/76063864/cb32b172-5162-4c0d-bd55-e504ef599590" width = "200" height = "400"/>
 
 
 
