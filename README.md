@@ -14,43 +14,13 @@ Use the spinner to select the number of floors and  and press the START button t
 
 <img src="https://user-images.githubusercontent.com/104605749/173557409-3d7c79a0-73ac-4fc6-bbbd-23bcb9dfa884.jpg" width = "200" height = "400"/>
 
-### Wi-Fi Signal Stength
 
-Contains the RSSI of the WAP at the measured location. When RSSI values are expressed in negative format, the closer the value is to 0, the stronger the received signal.
-
-![WF1](https://user-images.githubusercontent.com/104605749/168459127-5470ae9b-f954-41da-bf5a-721f58a41072.jpg)
 
 ### Data exploration
 
 ![image](https://user-images.githubusercontent.com/104605749/168989902-f012af90-0697-417f-bbb3-9eb778ab7ed0.png)
 
-Only the reception strength of the measured value is measured in the (FIREBASE) data set. Convert the measured value to a data frame using Python
 
-```
-#원하는 호 수 => 504호 => (5층/4호)
-ref = db.reference('?층/??호')
-p = ref.get()
-get_list = []
-```
-
-```
-df = pd.DataFrame(p)
-df.index = np.arange(len(df))
-
-#호 수로 입력
-df["target"] = ???
-
-df
-```
-
-![image](https://user-images.githubusercontent.com/104605749/168987604-b56232fc-b8cf-43f3-aea7-baa4487dab73.png)
-
-## 3rd week
-
-### Progress
-
-* System Architecture
-* Model evaluation
 
 #### System Architecture
 * Location data collection
