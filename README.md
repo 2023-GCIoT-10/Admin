@@ -18,7 +18,7 @@ Use the spinner to select the number of floors and  and press the START button t
 
 ### Data exploration
 
-<img src="https://github.com/2023-GCIoT-10/Admin/assets/76063864/cb32b172-5162-4c0d-bd55-e504ef599590" width = "600" height = "400"/>
+<img src="https://github.com/2023-GCIoT-10/Admin/assets/76063864/cb32b172-5162-4c0d-bd55-e504ef599590" width = "600" height = "600"/>
 
 
 
